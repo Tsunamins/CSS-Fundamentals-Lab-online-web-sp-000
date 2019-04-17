@@ -24,3 +24,13 @@ figcaption {
 }
 
 #featured-property p {
+  margin: auto;
+  width: 800px;
+}
+
+details { 
+  display: horizontal;
+  float: left;
+}
+
+
